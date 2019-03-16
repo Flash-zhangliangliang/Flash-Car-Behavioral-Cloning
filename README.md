@@ -1,4 +1,4 @@
 # Flash-Car-Behavioral-Cloning
-Car behavioral cloning project of Udacuty
+Udacity Self-Driving Car Nanodegree - Car behavioral cloning project 
 
 Please refer to write_up.md
