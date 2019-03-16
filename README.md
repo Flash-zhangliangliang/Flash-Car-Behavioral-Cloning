@@ -1,4 +1,4 @@
 # Flash-Car-Behavioral-Cloning
-Car behavioral cloneing project of Udacuty
+Car behavioral cloning project of Udacuty
 
 Please refer to write_up.md
